@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>CTA.SpecFlowPlugin</id>
+    <version>1.0.0</version>
+    <title>CTA.SpecFlowPlugin</title>
+    <authors>Thomson Reuters</authors>
+    <owners>Alain Senot</owners>
+    <projectUrl>https://github.com/thomsonreuters/nunit-specflow-plugin</projectUrl>
+    <iconUrl>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSULS7tDTaLyhA-dAn_vmVsHAdkEeZYOogoupknspCSb1fGoqZZkjL3yw</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>SpecFlow plugin to inject custom Gherkin properties into NUnit test cases.</description>
+    <releaseNotes>Initial version</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>CTA NUnit SpecFlow</tags>
+  </metadata>
+  <files>
+    <file src="Property.SpecFlowPlugin\bin\Release\Property.SpecFlowPlugin.dll"  target="lib"/>
+  </files>
+</package>
