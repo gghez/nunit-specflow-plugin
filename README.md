@@ -39,4 +39,4 @@ This will generate this NUnit code in *.feature.cs*:
 [NUnit.Framework.Property("Capability", "Chrome Browser")]
 ```
 
-_Note_: No space between around *:* and *_* in property value are replaced by spaces.
+_Note_: No space around *:* and *_* in property value are replaced by spaces.
